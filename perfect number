@@ -5,3 +5,4 @@ if is_perfect_square(num):
 print("Perfect square")
 else:
 print("Not a perfect square")
+ 
